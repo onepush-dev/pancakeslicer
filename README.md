@@ -2,7 +2,7 @@
 
 [PancakeSlicer](https://github.com/ZimengXiong/PancakeSlicer) (AGPL-3.0) — a self-hosted, browser-based non-planar 3D-printer slicer built on the OrcaSlicer engine: import STL/3MF, slice with curved non-planar top surfaces, preview G-code and download it. Deploy it on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/OZYDlK)
 
 ## What this template runs
 
